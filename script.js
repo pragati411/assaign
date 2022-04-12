@@ -1,0 +1,1 @@
+navbar = document.querySelector('navbar')
